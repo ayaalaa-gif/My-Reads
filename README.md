@@ -1,10 +1,10 @@
 # MyReads - Book Tracking App
 
-MyRead app is a web app is created using the React.js (react hooks)
+MyRead app is a web app has created using the React.js (react hooks)
 
 ## About
 
-- It's A SPA. (Single Page Application) handeled by components and rounting so it navigates between components without refresh the page or requesting to the server
+- It's A SPA. (Single Page Application) handeled by components and rounting so it navigates between components without refresh the page to achieve the best performance and speed
 
 - It represents books shelves to store your books in and keeps tracking your reading states like (curently reading, want to read, and read)
 
@@ -21,7 +21,7 @@ MyRead app is a web app is created using the React.js (react hooks)
 Please feel free to contact me at any time by email or phone
 
 - email: ayaalaa1996y@gmail.com
-- phone: +20 106 867 8016
+
 
 ## Installation
 
